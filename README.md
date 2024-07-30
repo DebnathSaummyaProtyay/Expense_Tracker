@@ -20,6 +20,7 @@ Expense Tracker is an Android application designed to help users manage their pe
 ![expense_chart](https://github.com/user-attachments/assets/6540d7dc-0edd-40c2-8cf5-49fafbc37872)
 ![add_expense](https://github.com/user-attachments/assets/265359de-f3b2-446b-b961-8191620121e1)
 ![spinner](https://github.com/user-attachments/assets/a4427d7b-b822-4286-8575-1e1ae833e748)
+![warning](https://github.com/user-attachments/assets/3f9e1617-5c91-465d-a871-40466914e5c4)
 ![menu](https://github.com/user-attachments/assets/d896464b-b788-49c8-a41c-acaa8cda10ce)
 ![settings](https://github.com/user-attachments/assets/0e958173-5305-40cf-9e56-d40ab213bf4f)
 ![about](https://github.com/user-attachments/assets/dbd29d70-8f29-416b-8ccd-8704dfbd0489)
